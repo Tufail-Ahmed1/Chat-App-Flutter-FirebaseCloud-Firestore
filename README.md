@@ -10,6 +10,9 @@
 
 ## Screenshots
 
+![Screenshot_20231015_103919](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/875634e8-b19c-4342-baf1-a7ce156a6535)
+
+
 ![Screenshot 1](![Screenshot_20231015_101200](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/924d7966-58c5-4eb4-9ba2-ef1a581de0c9)
 )
 ![Screenshot 2](![Screenshot_20231015_103726](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/37ed4a67-b3d8-4323-ae03-6f40234a7014)
