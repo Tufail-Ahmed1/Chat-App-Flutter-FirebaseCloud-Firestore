@@ -8,6 +8,10 @@
 - Firebase Cloud Firestore: Store and synchronize messages across devices.
 - User-friendly interface: A clean and intuitive design for an enjoyable chatting experience.
 
+## Video
+
+https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/bd87aa1d-0709-4fe9-8318-d441925d5e46
+
 ## Screenshots
 (<img width="769" alt="Screenshot 2023-10-15 104509" src="https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/b4a27c82-6a4c-46ca-99ac-16ac4fe0328f"> )
 Screenshot 1
@@ -16,11 +20,6 @@ Screenshot 2
 ![Screenshot_20231015_103726](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/37ed4a67-b3d8-4323-ae03-6f40234a7014)
 Screenshot 3
 ![Screenshot_20231015_103919](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/ff65e4ca-6bac-4e39-bcbb-c8ea6a41c2ca)
-
-## Video
-
-https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/bd87aa1d-0709-4fe9-8318-d441925d5e46
-
 
 
 ## Getting Started
