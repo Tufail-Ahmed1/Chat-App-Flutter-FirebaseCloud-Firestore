@@ -1,11 +1,3 @@
-# chat_app
-
-Chat App in Flutter
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
 # Chat App
 
 ![logo3](https://github.com/Tufail-Ahmed1/Chat-App-Flutter-FirebaseCloud-Firestore/assets/128387947/f3b344e5-5050-4cdc-b000-6e7910303b9c)
